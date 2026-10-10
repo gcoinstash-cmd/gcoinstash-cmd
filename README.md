@@ -8,7 +8,7 @@ Welcome to the **Aura & Grid** software engineering lab. We architect, assemble,
 ---
 
 ### 🏎️ Live Platforms & Showroom
-- **Public Showroom:** [aura-and-grid-showroom.onrender.com](https://aura-and-grid-showroom.onrender.com)
+- **Public Showroom:** Under Construction
 - **Primary Stacks:** React 19, TypeScript, Tailwind CSS, Supabase PostgreSQL with Row Level Security (RLS).
 - **Service Backends:** Python 3.11, FastAPI, OpenAPI 3.1, Docker, Pytest verification suites.
 
