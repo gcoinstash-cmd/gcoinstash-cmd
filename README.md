@@ -3,7 +3,7 @@
 
 > **Dealership Principal & Systems Architect @ Aura & Grid.** Building modular web operating systems, real-time telemetry HUDs, and deterministic reference engines.
 
-Welcome to my software engineering lab. We architect, assemble, and deploy enterprise web prototypes, deterministic algorithmic engines, and telemetry dashboards built to luxury automotive engineering standards.
+Welcome to my software engineering lab. We architect, assemble, and deploy enterprise web prototypes, deterministic algorithmic engines, and telemetry dashboards built to engineering standards.
 
 ---
 
