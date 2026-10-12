@@ -1,4 +1,4 @@
-# AURA & GRID // DIGITAL SOFTWARE FOUNDRY
+#DIGITAL SOFTWARE FOUNDRY
 ### High-Performance Web Operating Systems & Reference Service Engines
 
 > **Dealership Principal & Systems Architect @ Aura & Grid.** Building modular web operating systems, real-time telemetry HUDs, and deterministic reference engines.
